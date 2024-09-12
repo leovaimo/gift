@@ -3,7 +3,7 @@
 client_id = "360417a1e31b14a209f5c4e8bfd1686d"
 name = "gift"
 handle = "gift-33"
-application_url = "https://pond-browser-timber-produce.trycloudflare.com"
+application_url = "https://gift-4dsf.onrender.com"
 embedded = true
 
 [build]
@@ -17,9 +17,9 @@ scopes = "write_products"
 
 [auth]
 redirect_urls = [
-  "https://pond-browser-timber-produce.trycloudflare.com/auth/callback",
-  "https://pond-browser-timber-produce.trycloudflare.com/auth/shopify/callback",
-  "https://pond-browser-timber-produce.trycloudflare.com/api/auth/callback"
+  "https://gift-4dsf.onrender.com/auth/callback",
+  "https://gift-4dsf.onrender.com/auth/shopify/callback",
+  "https://gift-4dsf.onrender.com/api/auth/callback"
 ]
 
 [webhooks]
